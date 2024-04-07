@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><users>
+  <user>
+    <username>john_doe</username><password>password123</password><walletBalance>1.5</walletBalance>
+  </user>
+  <user>
+    <username>jane_doe</username><password>password456</password><walletBalance>2.3</walletBalance>
+  </user>
+<user><username>apple</username><password>banana</password><walletBalance>0.0</walletBalance></user><user><username>Superman</username><password>NorthDaokota</password><walletBalance>0.0</walletBalance></user><user><username>apple</username><password>banana</password><walletBalance>0.0</walletBalance></user><user><username>batman</username><password>bat</password><walletBalance>0.0</walletBalance></user></users>
